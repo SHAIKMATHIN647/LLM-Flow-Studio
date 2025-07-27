@@ -3,6 +3,7 @@
 **LLM FlowStudio** is a visual pipeline builder focused on Large Language Model (LLM) nodes. It allows users to create, connect, and manage custom LLM-driven workflows with an intuitive drag-and-drop interface powered by **React Flow**, **Zustand**, and **Tailwind CSS**.
 
 ---
+<img width="1919" height="875" alt="Image" src="https://github.com/user-attachments/assets/776aeb59-5d17-4307-b4d4-0264b1801131" />
 
 ## 🚀 Features
 
